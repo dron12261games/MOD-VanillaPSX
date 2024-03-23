@@ -23,8 +23,8 @@ The mod is compatible with most ports except Chocolate Doom and DOS. At a minimu
 - Eternity Engine
 - etc.
 
-### Download - [Latest Release - VanillaPSX v4](https://github.com/dron12261games/SFT-GZDoom-Classic/releases/download/v4/GZDoom.Classic.v4.zip)
-### Download - [Latest Release - VanillaPSX Pallete Addon](https://github.com/dron12261games/SFT-GZDoom-Classic/releases/download/v4/GZDoom.Classic.v4.zip)
+### Download - [Latest Release - VanillaPSX v4](https://github.com/dron12261games/MOD-VanillaPSX/releases/download/v4/VanillaPSX.V4.by.DRON12261.WAD)
+### Download - [Latest Release - VanillaPSX Pallete Addon](https://github.com/dron12261games/MOD-VanillaPSX/releases/download/v4/VanillaPSX.Pallete.Addon.wad)
 
 # CREDITS
 **Compiled/converted by DRON12261**

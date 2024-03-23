@@ -1,3 +1,5 @@
+![LOGO](./screens/LOGO.png)
+
 # VanillaPSX by DRON12261
 
 # STATUS: ✅RELEASED

@@ -10,4 +10,10 @@ DOOM PSX GEC Master Edition
 DOOM PSX for Vanilla Doom
 PSX DOOM: The Forgotten Chapter by Dantosking
 
-If you need assets to create a Doom PSX-inspired map, feel free to use VanillaPSX and include it in your wad/pk3/pke, making sure to specify credits beforehand.
+Special Thanks to lafoxxx [B0S] for helping me with some interface graphics
+
+
+
+If you need assets to create a Doom PSX-inspired map, feel free to use 
+VanillaPSX and include it in your wad/pk3/pke, making sure to specify credits 
+beforehand.

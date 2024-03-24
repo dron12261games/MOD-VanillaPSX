@@ -27,8 +27,8 @@ The mod is compatible with most ports except Chocolate Doom and DOS. At a minimu
 
 If you need assets to create a Doom PSX-inspired map, feel free to use VanillaPSX and include it in your wad/pk3/pke, making sure to specify credits beforehand.
 
-### Download - [Latest Release - VanillaPSX v4](https://github.com/dron12261games/MOD-VanillaPSX/releases/download/v4/VanillaPSX.V4.by.DRON12261.WAD)
-### Download - [Latest Release - VanillaPSX Pallete Addon](https://github.com/dron12261games/MOD-VanillaPSX/releases/download/v4/VanillaPSX.Pallete.Addon.wad)
+### Download - [Latest Release - VanillaPSX v4](https://github.com/dron12261games/MOD-VanillaPSX/releases/download/v4/VanillaPSX.V5.by.DRON12261.WAD)
+### Download - [Latest Release - VanillaPSX Pallete Addon](https://github.com/dron12261games/MOD-VanillaPSX/releases/download/v5/VanillaPSX.Pallete.Addon.wad)
 
 # CREDITS
 **Compiled/converted by DRON12261**
@@ -40,6 +40,8 @@ Resources taken from:
 - DOOM PSX GEC Master Edition
 - DOOM PSX for Vanilla Doom
 - PSX DOOM: The Forgotten Chapter by Dantosking
+
+Special Thanks to lafoxxx [B0S] for helping me with some interface graphics
 
 # Screenshots:
 Screenshots were taken in different ports (1 - Rude Doom, 2 - DSDA, 3 - GZDoom, 4 - Doom Retro, 5 - Eternity Engine, 6,7 - prBoom+, 8 - Nugget Doom)

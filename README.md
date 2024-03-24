@@ -27,7 +27,7 @@ The mod is compatible with most ports except Chocolate Doom and DOS. At a minimu
 
 If you need assets to create a Doom PSX-inspired map, feel free to use VanillaPSX and include it in your wad/pk3/pke, making sure to specify credits beforehand.
 
-### Download - [Latest Release - VanillaPSX v5](https://github.com/dron12261games/MOD-VanillaPSX/releases/download/v4/VanillaPSX.V5.by.DRON12261.WAD)
+### Download - [Latest Release - VanillaPSX v5](https://github.com/dron12261games/MOD-VanillaPSX/releases/download/v5/VanillaPSX.V5.by.DRON12261.WAD)
 ### Download - [Latest Release - VanillaPSX Pallete Addon](https://github.com/dron12261games/MOD-VanillaPSX/releases/download/v5/VanillaPSX.Pallete.Addon.wad)
 
 # CREDITS

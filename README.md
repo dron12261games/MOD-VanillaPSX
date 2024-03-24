@@ -1,4 +1,4 @@
-![LOGO](./screens/LOGO.png)
+![LOGO](./screens/00.png)
 
 # VanillaPSX by DRON12261
 

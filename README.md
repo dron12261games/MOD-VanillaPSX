@@ -30,8 +30,8 @@ If you need assets to create a Doom PSX-inspired map, feel free to use VanillaPS
 If you want the same way music from Aubrey Hodges, there is one wonderful big music randomizer created by @Big_Dorbo. But it only works on ZDoom, RZDoom, GZDoom and other ZDoom-based ports.
 https://www.doomworld.com/forum/topic/144117-aubrey-hodges-jukebox/
 
-### Download - [Latest Release - VanillaPSX v5](https://github.com/dron12261games/MOD-VanillaPSX/releases/download/v5/VanillaPSX.V5.by.DRON12261.WAD)
-### Download - [Latest Release - VanillaPSX Pallete Addon](https://github.com/dron12261games/MOD-VanillaPSX/releases/download/v5/VanillaPSX.Pallete.Addon.wad)
+### Download - [Latest Release - VanillaPSX v6](https://github.com/dron12261games/MOD-VanillaPSX/releases/download/v6/VanillaPSX.V6.by.DRON12261.WAD)
+### Download - [Latest Release - VanillaPSX Pallete Addon](https://github.com/dron12261games/MOD-VanillaPSX/releases/download/v6/VanillaPSX.Pallete.Addon.wad)
 
 # CREDITS
 **Compiled/converted by DRON12261**

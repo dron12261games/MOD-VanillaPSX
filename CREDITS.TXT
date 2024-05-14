@@ -1,4 +1,4 @@
-VanillaPSX
+VanillaPSX v6
 
 Compiled/converted by DRON12261
 
@@ -9,6 +9,7 @@ DOOM PSX TC
 DOOM PSX GEC Master Edition
 DOOM PSX for Vanilla Doom
 PSX DOOM: The Forgotten Chapter by Dantosking
+D64GraphX by Craneo
 
 Special Thanks to lafoxxx [B0S] for helping me with some interface graphics
 

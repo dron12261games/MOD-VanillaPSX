@@ -1,4 +1,4 @@
-![LOGO](./screens/LOGO.png)
+![LOGO](./screens/00.png)
 
 # VanillaPSX by DRON12261
 
@@ -26,6 +26,9 @@ The mod is compatible with most ports except Chocolate Doom and DOS. At a minimu
 - etc.
 
 If you need assets to create a Doom PSX-inspired map, feel free to use VanillaPSX and include it in your wad/pk3/pke, making sure to specify credits beforehand.
+
+If you want the same way music from Aubrey Hodges, there is one wonderful big music randomizer created by @Big_Dorbo. But it only works on ZDoom, RZDoom, GZDoom and other ZDoom-based ports.
+https://www.doomworld.com/forum/topic/144117-aubrey-hodges-jukebox/
 
 ### Download - [Latest Release - VanillaPSX v5](https://github.com/dron12261games/MOD-VanillaPSX/releases/download/v5/VanillaPSX.V5.by.DRON12261.WAD)
 ### Download - [Latest Release - VanillaPSX Pallete Addon](https://github.com/dron12261games/MOD-VanillaPSX/releases/download/v5/VanillaPSX.Pallete.Addon.wad)
